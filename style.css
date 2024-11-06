@@ -304,7 +304,7 @@ a:hover{
 }
 .gallery-img{
     width: 35vw;
-    height: 60vw;
+    height: 50vw;
     margin: 10px;
     background-size: cover;
     background-position: center;
@@ -327,7 +327,7 @@ a:hover{
     }
     .gallery-img{
         width: 100vw;
-        height: 90vw;
+        height: auto;
         margin: 2px 0;
     }
     .gallery-img:nth-child(2){
