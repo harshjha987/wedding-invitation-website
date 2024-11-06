@@ -327,7 +327,7 @@ a:hover{
     }
     .gallery-img{
         width: 100vw;
-        height: auto;
+        height: 125vw;
         margin: 2px 0;
     }
     .gallery-img:nth-child(2){
