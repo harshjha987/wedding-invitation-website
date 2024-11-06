@@ -368,6 +368,12 @@ a:hover{
     background-attachment: fixed;
     background-repeat: no-repeat;
 }
+@media (max-width: 768px) { /* Adjust as needed for your breakpoint */
+    .hands {
+        background-size: contain; /* Fit the entire image within the container */
+        background-position: center; /* Center the image horizontally and vertically */
+    }
+}
 
     /* <===================STAY===================> */
     #stay{
