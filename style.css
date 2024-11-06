@@ -304,7 +304,7 @@ a:hover{
 }
 .gallery-img{
     width: 30vw;
-    height: 40vw;
+    height: 50vw;
     margin: 10px;
     background-size: cover;
     background-position: center;
@@ -361,7 +361,7 @@ a:hover{
 
 .hands{
     height: 120vh;
-    width: 100%;
+    
     background-image: url(shadi3.jpg);
     background-size: cover;
     background-position-y: center;
